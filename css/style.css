@@ -6,18 +6,19 @@
 
 .senhaAtual{
 	text-align: center;
-	background-color: #008000;
+	background-color: #046825;
 	color: white;
-	margin-top: 0px;
+	margin-top: 10px;
+	height: 220px;
 }
 
 .senhaAtualTexto{
-	font-size: 65pt;
-	font-weight: 400;
+	font-size: 120pt;
+	font-weight: 800;
 }
 
 #senhaAtualNumero{
-	font-size: 100pt;
+	font-size: 120pt;
 	font-weight: 800;
 }
 
@@ -26,7 +27,7 @@
 	text-align: center;
 	background-color: #ccc;
 	height: 110px;
-	margin-top: 20px;
+	margin-top: 80px;
 }
 
 #ultimaSenhaTexto{
